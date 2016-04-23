@@ -1,5 +1,3 @@
-"use strict";
-
 var salaries = {
 	"Вася": 100,
 	"Петя": 300,
